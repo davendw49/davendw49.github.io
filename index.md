@@ -10,14 +10,15 @@ Recently, I am devoted to the research of specialized domain large language mode
 
 ## Research Interests
 
-- **Natural Language Processing :** Long-context LLM, Hardware-awared Language Modeling
+- **Natural Language Processing :** Long-context LLM, Hardware-awared Language Modeling, AI Agent
 - **Machine Learning:** Distributed ML, ML System
 - **AI for Science and Social Goods:** GeoAI, AI for Design
 
 ## News
 
-- **[2024-02]** 3 Papers are accpeted in EGU 2024!
-- **[2024-01]** GeoGalactica, A Scientific Large Language Model in Geoscience is open-sourced on [geobrain-ai/geogalactica](https://github.com/geobrain-ai/geogalactica)! The technical report is on arXiv:2401.00434 [cs.CL]!
+- **[2024-04]** Our Paper "DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning" has been accpeted by ICML 2024!
+- **[2024-02]** 3 Papers about AI for Geoscience are accpeted by EGU 2024!
+- **[2024-01]** GeoGalactica, A Scientific Large Language Model in Geoscience is open-sourced on [geobrain-ai/geogalactica](https://github.com/geobrain-ai/geogalactica)! The technical report is on [arXiv:2401.00434](https://arxiv.org/abs/2401.00434)!
 - **[2023-10]** Our paper "Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization" (The K2) has been accepted by WSDM-2024!
 - **[2023-11]** Our paper "RWE: A Random Walk Based Graph Entropy for the Structural Complexity of Directed Networks" has been accepted by TNSE!
 - **[2023-10]** Our paper "Enhancing Uncertainty-Based Hallucination Detectionwith Stronger Focus" has been accepted by EMNLP-2023!
