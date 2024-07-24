@@ -20,10 +20,14 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
+  - title: "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation"
+    authors: Lin Sheng, Cheng Deng, Junjie Zhang, Fangyuan Chang, Qinghua Sun, Hongyu Liu and Zhenyu Gu
+    conference_short: ECAI2024
+    conference: European Conference on Artifical Intelligence
 
   - title: "DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning"
     authors: Siyuan Guo, Cheng Deng, Ying Wen, Hechang Chen, Yi Chang, Jun Wang
-    conference_short: ICML
+    conference_short: ICML2024
     conference: International Conference on Machine Learning
     pdf: https://arxiv.org/abs/2402.17453
     code: https://github.com/guosyjlu/DS-Agent
@@ -39,7 +43,7 @@ main:
     conference_short: WSDM2024
     conference: WSDM, 2024
     pdf: https://arxiv.org/abs/2306.05064
-    code: https://github.com/geobrain-ai/geogalactica
+    code: https://github.com/davendw49/k2
 
   - title: "RWE: A Random Walk based Graph Entropy for the Structural Complexity of Directed Networks"
     authors: Chong Zhang, Cheng Deng, Luoyi Fu, Xinbing Wang, Guihai Chen, Lei Zhou, Chenghu Zhou
@@ -77,10 +81,12 @@ main:
     pdf: https://arxiv.org/abs/2304.00592
     data: https://github.com/davendw49/PK-Chat
     code: https://github.com/iiot-tbb/Dialogue_DDE
+    conference: International Joint Conference on Knowledge Graphs
 
   - title: "Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph Construction and Application"
     authors: Cheng Deng, Jiaxing Ding, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou
     conference_short: IJCKG2023
+    conference: International Joint Conference on Knowledge Graphs
 
   - title: "EvolveKG: A General Framework to Learn Evolving Knowledge Graphs"
     authors: Jiaqi Liu, Zhiwen Yu, Bin Guo, Cheng Deng, Luoyi Fu, Xinbing Wang, Chenghu Zhou
