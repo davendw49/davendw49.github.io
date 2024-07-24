@@ -19,7 +19,7 @@ During my doctoral period, one of the key feedbacks I receive from industry proj
 ## News
 
 - **[2024-06]** Invited talk at "AI-Based Future IoT Technologies and Services 2024 Workshop" in Jeju, Korea!
-- **[2024-04]** Our Paper "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation" has been accpeted by ECAI 2024!
+- **[2024-07]** Our Paper "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation" has been accpeted by ECAI 2024!
 - **[2024-04]** Our Paper "DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning" has been accpeted by ICML 2024!
 - **[2024-02]** Attending TEDxNYUShanghai Salon with the theme of "Going Meta", I gave a TED talk "Thinking Outside the Code"!
 <!-- - **[2024-02]** 3 Papers about AI for Geoscience are accpeted by EGU 2024! -->
