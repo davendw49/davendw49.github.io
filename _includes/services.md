@@ -24,4 +24,5 @@
   <li><b>Reviewer for Journal FCS</b> [2023]</li>
   <li><b>Reviewer for Journal CUCS</b> [2024]</li>
   <li><b>Reviewer for Journal IJGIS</b> [2024]</li>
+  <li><b>Reviewer for Journal HSSCOMMS</b> [2024]</li>
 </ul>
