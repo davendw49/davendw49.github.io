@@ -38,7 +38,7 @@ main:
     pdf: https://arxiv.org/abs/2401.00434
     code: https://github.com/geobrain-ai/geogalactica
 
-  - title: "Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization"
+  - title: "K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization"
     authors: Cheng Deng, Tianhang Zhang, Zhongmou He, Yi Xu, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin, Junxian He
     conference_short: WSDM2024
     conference: WSDM, 2024
