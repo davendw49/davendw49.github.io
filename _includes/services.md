@@ -12,7 +12,8 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><b>Reviewer for Conference AISTATS</b> [2024]</li>
+  <li><b>Reviewer for Conference AISTATS</b> [2024, 2025]</li>
+  <li><b>Reviewer for Conference Coling</b> [2025]</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -21,8 +22,10 @@
   <!-- <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li> -->
   <li><b>Reviewer for Journal TKDE</b> [2019-]</li>
   <li><b>Reviewer for Journal TMC</b> [2020]</li>
-  <li><b>Reviewer for Journal FCS</b> [2023]</li>
+  <li><b>Reviewer for Journal FCS</b> [2023-]</li>
   <li><b>Reviewer for Journal CUCS</b> [2024]</li>
   <li><b>Reviewer for Journal IJGIS</b> [2024]</li>
   <li><b>Reviewer for Journal HSSCOMMS</b> [2024]</li>
+  <li><b>Reviewer for Journal SWJ</b> [2024]</li>
+  <li><b>Reviewer for Journal TJDE</b> [2024]</li>
 </ul>
