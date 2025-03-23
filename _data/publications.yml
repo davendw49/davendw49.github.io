@@ -20,6 +20,19 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
+  - title: "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing"
+    authors: Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, Haoyang Li, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
+    conference_short: Preprint
+    pdf: https://arxiv.org/abs/2503.12167
+    code: https://github.com/plm-team/PLM
+
+  - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
+    authors: Huawei Ji, Cheng Deng, Bo Xue, Zhouyang Jin, Jiaxin Ding, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou
+    conference_short: ICASSP2025
+    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing
+    pdf: https://arxiv.org/abs/2409.10016
+    code: https://github.com/JHW5981/AceParse
+
   - title: "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation"
     authors: Lin Sheng, Cheng Deng, Junjie Zhang, Fangyuan Chang, Qinghua Sun, Hongyu Liu and Zhenyu Gu
     conference_short: ECAI2024
