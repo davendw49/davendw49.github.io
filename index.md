@@ -4,17 +4,16 @@ layout: homepage
 
 ## About Me
 
-<!-- Currently, I am a postdoctoral associates at the University of Edinburgh, collobrated with Prof. Luo Mai, and Prof. Jun Wang.
-Before joining the University of Edinburgh, I was a visiting student at the institute of parallel and distributed systems (IPADS), working with Prof. Zeyu Mi, and a research assistant at Hong Kong University of Technology (Guangzhou), working with Prof. Lei Chen, and Prof. Jun Wang.-->
-I obtained my Ph.D. in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor of being supervised by [Prof. Weinan Zhang](http://wnzhang.net/), [Prof. Luoyi Fu](http://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). During my early research career, I've been interning at TikTok in the Data team, and I also interned as applied scientist at Amazon Shanghai AI Lab. Moreover, I was selected into [Wenjun Wu Honored Ph.D. Class](https://ai.sjtu.edu.cn/cultivate/postgraduate/managements) in 2021.
+<!-- Currently, I am a Research Fellow at the University of Edinburgh, working in collaboration with Prof. Luo Mai (PI) and Prof. Jun Wang.
+Prior to joining the University of Edinburgh, I was a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), where I worked with Prof. Lei Chen and Prof. Lionel M. Ni.-->
+I obtained my Ph.D. in Computer Science from the Acemap IIOT Lab at Shanghai Jiao Tong University, where I had the privilege of being supervised by [Prof. Weinan Zhang](http://wnzhang.net/), [Prof. Luoyi Fu](http://www.cs.sjtu.edu.cn/~fu-ly/index.html), and [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). During my early research career, I interned with the Data Team at TikTok and as an Applied Scientist at Amazon Shanghai AI Lab. In 2021, I was also selected for the [Wenjun Wu Honored Ph.D. Class](https://ai.sjtu.edu.cn/cultivate/postgraduate/managements).
 
-During my doctoral period, one of the key feedbacks I receive from industry projects and interdisciplinary collaborators is that the LLM should be highly reliable and efficient deployment in actual application. So I adjust my focus to LLM system in the coming career. **Recently, I am devoted to the research of on-device large language model**, doing some projects about the training, deployment, and the application of **LLM for edge-side or IoT**.
+**Currently, my research focuses on on-device large language models (LLMs)**, with ongoing projects spanning the training, deployment, and application of LLMs for edge and IoT scenarios.
 
 ## Research Interests
 
-- **Natural Language Processing :** Long-context LLM, On-device LLM
-- **Machine Learning:** ML-System co-Design, Distributed ML
-- **AI for Science and Social Goods:** GeoAI, AI for Design
+- **Natural Language Processing :** Long-context LLM, Hardware-co-Designed LLM
+- **AI for Science and Social Goods:** GeoAI, Scientific Data Mining
 
 ## Highlight
 
@@ -25,14 +24,12 @@ We release the **The PLM** (Peripheral Language Model) series, a novel model arc
 - Github: [https://github.com/plm-team/PLM](https://github.com/plm-team/PLM)
 - Hugging Face: [https://huggingface.co/PLM-Team](https://huggingface.co/PLM-Team)
 
-<!-- From October 12th to October 18th, we will be hosting a series of courses at HKUST-GZ in Guangzhou, China, under the theme **"Advanced Techniques for LLM"**, along with a tutorial on **"Full Stack Practice of LLM Training"**. Below are the available resources:
-
--  for the tutorial *"Full Stack Practice of LLM Training"* -->
+**PLM-v** and **PLM-vla** is coming soon!
 
 ## News
 
+- **[2025-06]** Invited talk about "PLM: Peripheral Language Model" on RLChina Roundtable Discussion!
 - **[2025-01]** Invited talk about "GeoAI with LLM" in University of Leeds, Leeds, UK!
-- **[2024-12]** Our Paper "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing" has been accpeted by ICASSP 2025!
 - **[2024-12]** Invited talk about "Boosting Scientific discovery in the Earth sciences via Large Languag Model Agent" in Yunlong Lake-Loch Lomond Symposium 24 at University of Strathclyde, Glasgow, UK!
 - **[2024-10]** Organized talk about "Advanced Techniques for LLM" and tutorial about "Full Stack Practice of LLM Training" in RLChina 24, Guangzhou, China! The material of the tutorial is on [GitHub](https://github.com/davendw49/llm_training_full_stack).
 <!-- - **[2024-07]** Our Paper "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation" has been accpeted by ECAI 2024! -->

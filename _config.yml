@@ -15,13 +15,14 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?user=0VFxZy0AAAAJ&hl
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/davendw49
-# linkedin: https://www.linkedin.com/in/cheng-deng-8a7256151/
+linkedin: https://www.linkedin.com/in/cheng-deng-8a7256151/
 twitter: https://twitter.com/davendw
-# email: mailto:davendw@sjtu.edu.cn
+email: mailto:davendw49@gmail.com
+other: https://www.cdeng.net/note
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/daven.jpeg
+avatar: ./assets/img/daven.png
 favicon: ./assets/img/logo.png
 favicon_dark: ./assets/img/logo.png
 

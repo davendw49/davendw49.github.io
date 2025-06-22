@@ -14,6 +14,9 @@
 <ul style="margin:0 0 5px;">
   <li><b>Reviewer for Conference AISTATS</b> [2024, 2025]</li>
   <li><b>Reviewer for Conference Coling</b> [2025]</li>
+  <li><b>Reviewer for Conference NeurIPS</b> [2025]</li>
+  <li><b>Reviewer for Conference ACL ARR</b> [2024, 2025]</li>
+  <li><b>Reviewer for Conference MM</b> [2025]</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
