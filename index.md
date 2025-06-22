@@ -8,7 +8,7 @@ layout: homepage
 Prior to joining the University of Edinburgh, I was a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), where I worked with Prof. Lei Chen and Prof. Lionel M. Ni.-->
 I obtained my Ph.D. in Computer Science from the Acemap IIOT Lab at Shanghai Jiao Tong University, where I had the privilege of being supervised by [Prof. Weinan Zhang](http://wnzhang.net/), [Prof. Luoyi Fu](http://www.cs.sjtu.edu.cn/~fu-ly/index.html), and [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). During my early research career, I interned with the Data Team at TikTok and as an Applied Scientist at Amazon Shanghai AI Lab. In 2021, I was also selected for the [Wenjun Wu Honored Ph.D. Class](https://ai.sjtu.edu.cn/cultivate/postgraduate/managements).
 
-**Currently, my research focuses on on-device large language models (LLMs)**, with ongoing projects spanning the training, deployment, and application of LLMs for edge and IoT scenarios.
+**Currently, my research focuses on on-device large language models (LLMs)**, with ongoing projects spanning the training, deployment, and application of LLMs for edge and IoT scenarios. The technical notes will coming soon on [Cheng's blog](https://www.cdeng.net/note)
 
 ## Research Interests
 
