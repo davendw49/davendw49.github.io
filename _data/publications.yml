@@ -20,23 +20,40 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
+  - title: "Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs"
+    authors: Luoyang Sun, Jiwen Jiang, Yifeng Ding, Fengfa Li, Yan Song, Haifeng Zhang, Jian Ying, Lei Ren, Kun Zhan, Wei Chen, Yan Xie, Cheng Deng
+    conference_short: Preprint
+    pdf: https://arxiv.org/abs/2602.10377
+
+  - title: "RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse"
+    authors: Yinsicheng Jiang, Yeqi Huang, Liang Cheng, Cheng Deng, Xuan Sun, Luo Mai
+    conference_short: MLSys 2026
+    conference: International Conference on Machine Learning Systems, 2026.
+    pdf: https://arxiv.org/abs/2511.03475
+  
+  - title: "SpatialViz-Bench: A Cognitively-Grounded Benchmark for Diagnosing Spatial Visualization in MLLMs"
+    authors: Siting Wang, Minnan Pei, Luoyang Sun, Cheng Deng, Kun Shao, Zheng Tian, Haifeng Zhang, Jun Wang
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations, 2026.
+    pdf: https://arxiv.org/abs/2507.07610
+
   - title: "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing"
     authors: Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, Haoyang Li, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2503.12167
     code: https://github.com/plm-team/PLM
 
-  - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
-    authors: Huawei Ji, Cheng Deng, Bo Xue, Zhouyang Jin, Jiaxin Ding, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou
-    conference_short: ICASSP2025
-    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing
-    pdf: https://arxiv.org/abs/2409.10016
-    code: https://github.com/JHW5981/AceParse
+  # - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
+  #   authors: Huawei Ji, Cheng Deng, Bo Xue, Zhouyang Jin, Jiaxin Ding, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou
+  #   conference_short: ICASSP2025
+  #   conference: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  #   pdf: https://arxiv.org/abs/2409.10016
+  #   code: https://github.com/JHW5981/AceParse
 
-  - title: "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation"
-    authors: Lin Sheng, Cheng Deng, Junjie Zhang, Fangyuan Chang, Qinghua Sun, Hongyu Liu and Zhenyu Gu
-    conference_short: ECAI2024
-    conference: European Conference on Artifical Intelligence
+  # - title: "A Language Model as a Design Assistant for UI Design Recommendation and Evaluation"
+  #   authors: Lin Sheng, Cheng Deng, Junjie Zhang, Fangyuan Chang, Qinghua Sun, Hongyu Liu and Zhenyu Gu
+  #   conference_short: ECAI2024
+  #   conference: European Conference on Artifical Intelligence
 
   - title: "DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning"
     authors: Siyuan Guo, Cheng Deng, Ying Wen, Hechang Chen, Yi Chang, Jun Wang
@@ -44,6 +61,28 @@ main:
     conference: International Conference on Machine Learning
     pdf: https://arxiv.org/abs/2402.17453
     code: https://github.com/guosyjlu/DS-Agent
+
+  # - title: "RWE: A Random Walk based Graph Entropy for the Structural Complexity of Directed Networks"
+  #   authors: Chong Zhang, Cheng Deng, Luoyi Fu, Xinbing Wang, Guihai Chen, Lei Zhou, Chenghu Zhou
+  #   conference_short: TNSE
+  #   conference: IEEE Transactions on Network Science and Engineering (TNSE)
+
+  - title: "Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus"
+    authors: Tianhang Zhang, Lin Qiu, Qipeng Guo, Cheng Deng, Yue Zhang, Zheng Zhang, Chenghu Zhou, Xinbing Wang, Luoyi Fu
+    conference_short: EMNLP2023
+    conference: EMNLP, 2024
+
+  # - title: "FMGNN: Fused Manifold Graph Embedding via Geometry Coreset"
+  #   authors: Cheng Deng, Fan Xu, Jiaxing Ding, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou, et al.
+  #   conference_short: Preprint
+  #   pdf: https://arxiv.org/abs/2304.01081
+  #   notes: Under Review
+
+  # - title: "'Paperdemic' during the COVID-19 pandemic"
+  #   authors: Yang Yang, Na Zhao, Ting Ma, Ze Yuan, Cheng Deng, et al.
+  #   conference_short: EJIM
+  #   conference: European Journal of Internal Medicine, 2022
+  #   pdf: https://doi.org/10.1016/j.ejim.2022.09.030
 
   - title: "GeoGalactica: A Scientific Large Language Model in Geoscience"
     authors: Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou, et al.
@@ -58,28 +97,6 @@ main:
     pdf: https://arxiv.org/abs/2306.05064
     code: https://github.com/davendw49/k2
 
-  - title: "RWE: A Random Walk based Graph Entropy for the Structural Complexity of Directed Networks"
-    authors: Chong Zhang, Cheng Deng, Luoyi Fu, Xinbing Wang, Guihai Chen, Lei Zhou, Chenghu Zhou
-    conference_short: TNSE
-    conference: IEEE Transactions on Network Science and Engineering (TNSE)
-
-  - title: "Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus"
-    authors: Tianhang Zhang, Lin Qiu, Qipeng Guo, Cheng Deng, Yue Zhang, Zheng Zhang, Chenghu Zhou, Xinbing Wang, Luoyi Fu
-    conference_short: EMNLP2023
-    conference: EMNLP, 2024
-
-  - title: "FMGNN: Fused Manifold Graph Embedding via Geometry Coreset"
-    authors: Cheng Deng, Fan Xu, Jiaxing Ding, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou, et al.
-    conference_short: Preprint
-    pdf: https://arxiv.org/abs/2304.01081
-    notes: Under Review
-
-  - title: "'Paperdemic' during the COVID-19 pandemic"
-    authors: Yang Yang, Na Zhao, Ting Ma, Ze Yuan, Cheng Deng, et al.
-    conference_short: EJIM
-    conference: European Journal of Internal Medicine, 2022
-    pdf: https://doi.org/10.1016/j.ejim.2022.09.030
-
   - title: "GAKG: A Multimodal GeoScience Academic Knowledge Graph"
     authors: Cheng Deng, Yuting Jia, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou, et al.
     conference_short: CIKM2021
@@ -88,28 +105,28 @@ main:
     website: https://gakg.acemap.info/
     code: https://github.com/davendw49/gakg
 
-  - title: "PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model"
-    authors: Cheng Deng, Bo Tong, Luoyi Fu, Jiaxin Ding, Dexing Cao, Xinbing Wang, Chenghu Zhou
-    conference_short: IJCKG2023
-    pdf: https://arxiv.org/abs/2304.00592
-    data: https://github.com/davendw49/PK-Chat
-    code: https://github.com/iiot-tbb/Dialogue_DDE
-    conference: International Joint Conference on Knowledge Graphs
+  # - title: "PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model"
+  #   authors: Cheng Deng, Bo Tong, Luoyi Fu, Jiaxin Ding, Dexing Cao, Xinbing Wang, Chenghu Zhou
+  #   conference_short: IJCKG2023
+  #   pdf: https://arxiv.org/abs/2304.00592
+  #   data: https://github.com/davendw49/PK-Chat
+  #   code: https://github.com/iiot-tbb/Dialogue_DDE
+  #   conference: International Joint Conference on Knowledge Graphs
 
-  - title: "Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph Construction and Application"
-    authors: Cheng Deng, Jiaxing Ding, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou
-    conference_short: IJCKG2023
-    conference: International Joint Conference on Knowledge Graphs
+  # - title: "Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph Construction and Application"
+  #   authors: Cheng Deng, Jiaxing Ding, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou
+  #   conference_short: IJCKG2023
+  #   conference: International Joint Conference on Knowledge Graphs
 
-  - title: "EvolveKG: A General Framework to Learn Evolving Knowledge Graphs"
-    authors: Jiaqi Liu, Zhiwen Yu, Bin Guo, Cheng Deng, Luoyi Fu, Xinbing Wang, Chenghu Zhou
-    conference_short: FCS
-    conference: Frontiers of Computer Science, 2022
-    code: https://github.com/davendw49/EvolvingKE
+  # - title: "EvolveKG: A General Framework to Learn Evolving Knowledge Graphs"
+  #   authors: Jiaqi Liu, Zhiwen Yu, Bin Guo, Cheng Deng, Luoyi Fu, Xinbing Wang, Chenghu Zhou
+  #   conference_short: FCS
+  #   conference: Frontiers of Computer Science, 2022
+  #   code: https://github.com/davendw49/EvolvingKE
 
-  - title: "Evolving Bipartite Model Reveals the Bounded Weights in Mobile Social Networks: A Case Study in Recommendation Network"
-    authors: Jiaqi Liu, Cheng Deng, Luoyi Fu, Xinbing Wang
-    conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing, 2020
-    pdf: https://ieeexplore.ieee.org/abstract/document/9170904
-    code: https://github.com/davendw49/ebm
+  # - title: "Evolving Bipartite Model Reveals the Bounded Weights in Mobile Social Networks: A Case Study in Recommendation Network"
+  #   authors: Jiaqi Liu, Cheng Deng, Luoyi Fu, Xinbing Wang
+  #   conference_short: TMC
+  #   conference: IEEE Transactions on Mobile Computing, 2020
+  #   pdf: https://ieeexplore.ieee.org/abstract/document/9170904
+  #   code: https://github.com/davendw49/ebm
