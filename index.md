@@ -23,4 +23,3 @@ We release the **Hardware Co-Design Scaling Law** for edge deployment, introduci
 - **[2026-03]** Invited show on [NiklasOPF Prodcast](https://www.youtube.com/@niklasopf), sharing "PLM: Peripheral Language Model" and "Hardware co-Design Scaling Law"!
 - **[2026-02]** Invited talk on "Efficient LLM on the Edge" at the [Cardiff NLP Group seminar](https://cardiffnlp.github.io/event/2026-02-05/) in Cardiff University!
 - **[2025-12]** Invited talk on "Efficient Physical AI and Beyond" at Li Auto AI Sharing seminar!
-- **[2025-10]** Invited talk on "Efficient Geoscience AI Agent System" on [Yunlong Lake Forum 2025](http://www.yunlonglab.ac.cn/info/1032/1144.htm) in Xuzhou!

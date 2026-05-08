@@ -2,3 +2,18 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+
+/* Custom list indentation */
+ul,
+ol {
+  padding-left: 1.2em;
+  margin-left: 0;
+}
+
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+  padding-left: 0.8em;
+}
