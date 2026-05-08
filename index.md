@@ -11,7 +11,7 @@ Currently, I am a Research Fellow at the Bayes Centre, the University of Edinbur
 - **NLP and System:** Hardware-co-Designed LLM, AI Agent System 
 - **AI for Science and Social Goods:** GeoAI, Scientific Data Mining
 
-## Highlight
+<!-- ## Highlight
 
 We release the **Hardware Co-Design Scaling Law** for edge deployment, introducing a principled framework for selecting the most suitable LLM for specific hardware and application constraints. By explicitly linking model architecture, training loss, and inference latency through roofline modelling, this work identifies the Pareto frontier between model accuracy and inference latency.
 
@@ -31,4 +31,4 @@ We release the **Hardware Co-Design Scaling Law** for edge deployment, introduci
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/talks.md %}
+{% include_relative _includes/talks.md %} -->
