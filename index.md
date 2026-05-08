@@ -18,9 +18,9 @@ We release the **Hardware Co-Design Scaling Law** for edge deployment, introduci
 
 ## News
 
-- **[2026-02]** 2 paper accepted by ICLR 2026, 1 paper accepted by MLSys 2026!
-- **[2026-02]** Invited show on [NiklasOPF Prodcast](https://www.youtube.com/@niklasopf), sharing "PLM: Peripheral Language Model" and "Hardware co-Design Scaling Law"!
+- **[2026-04]** 1 paper accepted by ACL 2026, 2 papers accepted by ICLR 2026, 1 paper accepted by MLSys 2026!
+- **[2026-04]** I hosted an academic workshop at the Bayes Centre, University of Edinburgh, titled "Edge AI Agent Workshop", where I also delivered a talk on "Efficient AI Agent on the Edge".
+- **[2026-03]** Invited show on [NiklasOPF Prodcast](https://www.youtube.com/@niklasopf), sharing "PLM: Peripheral Language Model" and "Hardware co-Design Scaling Law"!
 - **[2026-02]** Invited talk on "Efficient LLM on the Edge" at the [Cardiff NLP Group seminar](https://cardiffnlp.github.io/event/2026-02-05/) in Cardiff University!
 - **[2025-12]** Invited talk on "Efficient Physical AI and Beyond" at Li Auto AI Sharing seminar!
 - **[2025-10]** Invited talk on "Efficient Geoscience AI Agent System" on [Yunlong Lake Forum 2025](http://www.yunlonglab.ac.cn/info/1032/1144.htm) in Xuzhou!
-- **[2025-06]** Invited talk on "PLM: Peripheral Language Model" on RLChina Roundtable Discussion!
