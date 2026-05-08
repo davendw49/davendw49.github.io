@@ -5,8 +5,8 @@ layout: homepage
 ## About Me
 
 Currently, I am a Research Fellow at the Bayes Centre, the University of Edinburgh, working in collaboration with [Prof. Luo Mai](https://luomai.github.io/), [Prof. Jeff Pan](https://knowledge-representation.org/j.z.pan/), and [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). I served as the visiting research fellow at Li Auto. Prior to joining the University of Edinburgh, I was a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), where I worked with Prof. *Lei Chen* and Prof. *Lionel M. Ni*. I obtained my Ph.D. in Computer Science from the Acemap IIOT Lab at Shanghai Jiao Tong University, where I had the privilege of being supervised by Prof. *Weinan Zhang*, Prof. *Luoyi Fu*, and Prof. *Xinbing Wang*. During my early research career, I interned with the Data Team at TikTok and as an Applied Scientist at Amazon Shanghai AI Lab. In 2021, I was also selected for the *Wenjun Wu Honored Ph.D. Class*. 
+My research interests include **efficient machine learning algorithms** and **data mining**. My publications can be found on [Google Scholar](https://scholar.google.com/citations?user=0VFxZy0AAAAJ&hl).
 
-My research interests include: Efficient ML Algorithms and Data Mining.
 
 <!-- ## Highlight
 
