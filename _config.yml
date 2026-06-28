@@ -6,9 +6,9 @@ email: cdeng (at) ed.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Cheng Deng, Daven Deng, efficient machine learning, edge AI, on-device LLM, AI agents, hardware-software co-design, University of Edinburgh
+description: Cheng DENG (Daven) is a Research Fellow at the Bayes Centre, University of Edinburgh, working on efficient machine learning and deployable AI systems for edge and on-device intelligence.
+canonical: https://www.cdeng.net/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.

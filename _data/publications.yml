@@ -21,24 +21,24 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
   - title: "Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs"
-    authors: Luoyang Sun, Jiwen Jiang, Yifeng Ding, Fengfa Li, Yan Song, Haifeng Zhang, Jian Ying, Lei Ren, Kun Zhan, Wei Chen, Yan Xie, Cheng Deng
+    authors: Luoyang Sun, Jiwen Jiang, Yifeng Ding, Fengfa Li, Yan Song, Haifeng Zhang, Jian Ying, Lei Ren, Kun Zhan, Wei Chen, Yan Xie, Cheng Deng<sup>*</sup>
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2602.10377
 
-  - title: "RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse"
+  - title: "ContextPilot: Fast Long-Context Inference via Context Reuse"
     authors: Yinsicheng Jiang, Yeqi Huang, Liang Cheng, Cheng Deng, Xuan Sun, Luo Mai
     conference_short: MLSys 2026
     conference: International Conference on Machine Learning Systems, 2026.
     pdf: https://arxiv.org/abs/2511.03475
-  
-  - title: "SpatialViz-Bench: A Cognitively-Grounded Benchmark for Diagnosing Spatial Visualization in MLLMs"
-    authors: Siting Wang, Minnan Pei, Luoyang Sun, Cheng Deng, Kun Shao, Zheng Tian, Haifeng Zhang, Jun Wang
+
+  - title: "SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs"
+    authors: Siting Wang, Luoyang Sun, Cheng Deng<sup>*</sup>, Kun Shao, Minnan Pei, Zheng Tian, Haifeng Zhang, Jun Wang
     conference_short: ICLR 2026
     conference: International Conference on Learning Representations, 2026.
     pdf: https://arxiv.org/abs/2507.07610
 
   - title: "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing"
-    authors: Cheng Deng, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, Haoyang Li, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
+    authors: Cheng Deng<sup>*</sup>, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, Haoyang Li, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2503.12167
     code: https://github.com/plm-team/PLM

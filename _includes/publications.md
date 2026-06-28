@@ -12,9 +12,9 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
     {% endif %}
   </div> -->
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 0px;">
       <div class="title"> <abbr class="badge">{{ link.conference_short }}</abbr> <a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="author">{{ link.authors | replace: 'Cheng Deng', '<strong>Cheng Deng</strong>' }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
@@ -46,4 +46,6 @@
 
 </ol>
 </div>
+
+<p style="font-size:.8em;opacity:.7;margin:-14px 0 0;"><sup>*</sup> Corresponding author</p>
 
