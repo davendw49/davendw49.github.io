@@ -25,3 +25,7 @@ ol ul {
 /* Darker body text in light mode (theme default is #595959) */
 body { color: #2a2a2a; }
 @media (prefers-color-scheme: dark) { body { color: #dadbdf; } }
+
+/* Uniform spacing between homepage sections: heading top margin wins the margin collapse */
+section h2 { margin-top: 30px; }
+section > h2:first-child { margin-top: 2px; }

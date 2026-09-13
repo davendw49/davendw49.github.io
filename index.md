@@ -87,6 +87,8 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 .hl-media-row.hl-fit .hl-media{flex:0 1 auto;width:auto;min-width:0;}
 .hl-card .hl-links{margin-top:auto;margin-bottom:0;padding-top:4px;}
 .hl-card .hl-links a{font-size:.85em;margin-right:10px;white-space:nowrap;}
+.hl-stats{display:block;margin:6px 0 0;font-size:.78em;opacity:.8;white-space:nowrap;}
+.hl-stats span{margin-right:10px;}
 .hl-badge{display:inline-block;font-size:.7em;font-weight:600;letter-spacing:.03em;text-transform:uppercase;padding:1px 7px;border-radius:999px;background:rgba(128,128,128,.18);vertical-align:middle;margin-left:6px;}
 </style>
 
@@ -116,7 +118,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
       <img class="hl-media" src="./img/geo-foundation-models.png" alt="GAKG (CIKM 2021), K2 (WSDM 2024), and GeoGalactica (AI4X 2024)" loading="lazy">
       <h3>GeoGalactica / K2 / GAKG <span class="hl-badge">WSDM · AI4X · CIKM</span></h3>
       <p>First-generation LLM foundation models for science, covering data acquisition, pre-training, SFT, and RL.</p>
-      <p class="hl-links"><a href="https://arxiv.org/abs/2401.00434" target="_blank">GeoGalactica</a><a href="https://arxiv.org/abs/2306.05064" target="_blank">K2</a><a href="https://gakg.acemap.info/" target="_blank">GAKG</a></p>
+      <p class="hl-links"><a href="https://arxiv.org/abs/2401.00434" target="_blank">GeoGalactica</a><a href="https://arxiv.org/abs/2306.05064" target="_blank">K2</a><a href="https://gakg.acemap.info/" target="_blank">GAKG</a><span class="hl-stats"><span><i class="fab fa-github"></i> 314 stars</span><span>🤗 2.9k downloads</span></span></p>
     </div>
     <div class="hl-card">
       <img class="hl-media" src="./img/ds-agent.png" alt="DS-Agent case-based reasoning loop" loading="lazy">
@@ -131,7 +133,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
       </div>
       <h3>PLM &amp; RooflineBench</h3>
       <p>A 1.8B peripheral language model hardware-co-designed for ubiquitous computing, plus a roofline-based benchmark for on-device LLMs.</p>
-      <p class="hl-links"><a href="https://arxiv.org/abs/2503.12167" target="_blank">PLM</a><a href="https://github.com/plm-team/PLM" target="_blank">Code</a><a href="https://arxiv.org/abs/2602.11506" target="_blank">RooflineBench</a></p>
+      <p class="hl-links"><a href="https://arxiv.org/abs/2503.12167" target="_blank">PLM</a><a href="https://github.com/plm-team/PLM" target="_blank">Code</a><a href="https://arxiv.org/abs/2602.11506" target="_blank">RooflineBench</a><span class="hl-stats"><span><i class="fab fa-github"></i> 21 stars</span><span>🤗 13k+ downloads</span></span></p>
     </div>
 </div>
 
