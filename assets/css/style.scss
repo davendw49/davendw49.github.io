@@ -16,3 +16,12 @@ ul ol,
 ol ul {
   padding-left: 0.8em;
 }
+/* Wider content column on large screens (theme default: 960px wrapper, 650px section) */
+@media screen and (min-width: 1200px) {
+  .wrapper { width: 1180px; }
+  section { width: 880px; }
+}
+
+/* Darker body text in light mode (theme default is #595959) */
+body { color: #2a2a2a; }
+@media (prefers-color-scheme: dark) { body { color: #dadbdf; } }
