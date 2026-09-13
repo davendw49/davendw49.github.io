@@ -109,7 +109,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
         <img class="hl-media" src="./img/homephysicalagent.gif" alt="PhysicalAgent: the mobile robot navigating the same task" loading="lazy">
       </div>
       <h3>PhysicalAgent <span class="hl-badge">Banbu-supported</span></h3>
-      <p>A self-built home robot on NVIDIA Jetson Orin, driven by a pretrained VLA (zero-shot in our environment) in the loop with an AI agent: sound-source localisation, open-space object search, and efficient obstacle avoidance.</p>
+      <p>A self-built robot from scratch, driven by a pretrained VLA (zero-shot in our environment) in the loop with an AI agent: sound-source localisation, open-space object search, and efficient obstacle avoidance.</p>
       <p class="hl-links"><span class="hl-badge">Ongoing</span></p>
     </div>
     <div class="hl-card">
