@@ -97,7 +97,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
       <img class="hl-media" src="./liauto/effvla.gif" alt="Efficient VLA running on edge hardware" loading="lazy">
       <h3>Efficient VLA <span class="hl-badge">CoRL 2026</span></h3>
       <p>A design space study of modular vision-language-action models: how to build VLAs that run efficiently on edge hardware.</p>
-      <p class="hl-links"><span class="hl-badge">Paper coming soon</span></p>
+      <p class="hl-links"><a href="https://arxiv.org/abs/2609.13984" target="_blank">arXiv</a></p>
     </div>
     <div class="hl-card">
       <img class="hl-media" src="./liauto/effllm.png" alt="Hardware co-design scaling law for on-device LLMs" loading="lazy">

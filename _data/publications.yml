@@ -24,6 +24,7 @@ main:
     authors: Luoyang Sun, Guoyang Xia, Fengfa Li, Lei Ren, Xinyu Cui, Haifeng Zhang, Fangxiang Feng, Kaike Zhang, Kun Zhan, Xie Yan, Jun Wang, Cheng Deng<sup>*</sup>
     conference_short: CoRL 2026
     conference: Conference on Robot Learning, 2026.
+    pdf: https://arxiv.org/abs/2609.13984
 
   - title: "Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs"
     authors: Luoyang Sun, Jiwen Jiang, Yifeng Ding, Fengfa Li, Yan Song, Haifeng Zhang, Jian Ying, Lei Ren, Kun Zhan, Wei Chen, Yan Xie, Cheng Deng<sup>*</sup>
