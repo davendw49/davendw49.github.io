@@ -66,7 +66,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 
 ## News
 
-- **[2026-09]** 1 paper on efficient Vision-Language-Action (VLA) models accepted by CoRL 2026!
+- **[2026-09]** *EffVLA* is accepted by CoRL 2026!
 - **[2026-08]** Invited talk on "Large Discovery Model and Geoscience" at the 3rd International Symposium on Deep Underground Science and Engineering in Glasgow!
 - **[2026-04]** 2 papers accepted by ACL Main Conference 2026, 2 papers accepted by ICLR 2026, 1 paper accepted by MLSys 2026!
 - **[2026-04]** I hosted an academic workshop at the Bayes Centre, University of Edinburgh, titled "Edge AI Agent Workshop", where I also delivered a talk on "Efficient AI Agent on the Edge".
