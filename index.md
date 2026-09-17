@@ -113,11 +113,14 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
     <div class="hl-card">
       <div class="hl-media-row hl-fit">
       <svg class="hl-media" viewBox="0 0 96 120" role="img" aria-label="Agent, VLA policy, and vehicle or robot platform in a feedback loop">
-        <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="rgba(128,128,128,.7)"/></marker></defs>
+        <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="rgba(128,128,128,.7)"/></marker></defs>
         <g fill="rgba(128,128,128,.10)" stroke="rgba(128,128,128,.45)" stroke-width="1.2">
           <rect x="6" y="4" width="84" height="28" rx="7"/><rect x="6" y="46" width="84" height="28" rx="7"/><rect x="6" y="88" width="84" height="28" rx="7"/>
         </g>
-        <g stroke="rgba(128,128,128,.7)" stroke-width="1.5" marker-start="url(#arr)" marker-end="url(#arr)"><line x1="48" y1="33.5" x2="48" y2="44.5"/><line x1="48" y1="75.5" x2="48" y2="86.5"/></g>
+        <g stroke="rgba(128,128,128,.7)" stroke-width="1.2" marker-end="url(#arr)">
+          <line x1="43" y1="33.5" x2="43" y2="44.5"/><line x1="53" y1="44.5" x2="53" y2="33.5"/>
+          <line x1="43" y1="75.5" x2="43" y2="86.5"/><line x1="53" y1="86.5" x2="53" y2="75.5"/>
+        </g>
         <g fill="currentColor" font-size="9.5" font-weight="600" text-anchor="middle">
           <text x="48" y="22">Task-level Agent</text>
           <text x="48" y="64">VLA Policy</text>
