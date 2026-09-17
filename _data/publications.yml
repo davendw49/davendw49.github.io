@@ -21,34 +21,59 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
   - title: "How to Build an Efficient VLA: A Design Space Study for Modular Vision-Language-Action Models"
+    topics: "Robotics · VLA"
     authors: Luoyang Sun, Guoyang Xia, Fengfa Li, Lei Ren, Xinyu Cui, Haifeng Zhang, Fangxiang Feng, Kaike Zhang, Kun Zhan, Xie Yan, Jun Wang, Cheng Deng<sup>*</sup>
     conference_short: CoRL 2026
     conference: Conference on Robot Learning, 2026.
     pdf: https://arxiv.org/abs/2609.13984
 
+  - title: "MemoryCraft: How Retrieval Control Reshapes Agent Memory Performance and Cost"
+    topics: "Agents · Systems"
+    authors: Cheng Deng, Eve Sauvage, Danna Zheng, Wenyu Huang, Luo Mai, Mirella Lapata, Jeff Z. Pan
+    conference_short: Under Review
+    code: https://github.com/MemoryCraft-Team/OpenMemorycraft
+
+  - title: "π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs"
+    topics: "Robotics · VLA"
+    authors: Siting Wang, Xiaofeng Wang, Zheng Zhu, Minnan Pei, Xinyu Cui, Cheng Deng, Jian Zhao, Guan Huang, Haifeng Zhang, Jun Wang
+    conference_short: Preprint
+    pdf: https://arxiv.org/abs/2603.02083
+
   - title: "Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs"
+    topics: "Efficient ML"
     authors: Luoyang Sun, Jiwen Jiang, Yifeng Ding, Fengfa Li, Yan Song, Haifeng Zhang, Jian Ying, Lei Ren, Kun Zhan, Wei Chen, Yan Xie, Cheng Deng<sup>*</sup>
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2602.10377
 
   - title: "ContextPilot: Fast Long-Context Inference via Context Reuse"
+    topics: "Systems · Agents"
     authors: Yinsicheng Jiang, Yeqi Huang, Liang Cheng, Cheng Deng, Xuan Sun, Luo Mai
     conference_short: MLSys 2026
     conference: International Conference on Machine Learning Systems, 2026.
     pdf: https://arxiv.org/abs/2511.03475
 
+  - title: "RooflineBench: A Benchmarking Framework for On-Device LLMs via Roofline Analysis"
+    topics: "Efficient ML · Systems"
+    authors: Zhen Bi, Xueshu Chen, Luoyang Sun, Yuhang Yao, Qing Shen, Jungang Lou, Cheng Deng<sup>*</sup>
+    conference_short: DAI 2026
+    conference: International Conference on Distributed Artificial Intelligence, 2026.
+    pdf: https://arxiv.org/abs/2602.11506
+
   - title: "SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs"
+    topics: "Multimodal"
     authors: Siting Wang, Luoyang Sun, Cheng Deng<sup>*</sup>, Kun Shao, Minnan Pei, Zheng Tian, Haifeng Zhang, Jun Wang
     conference_short: ICLR 2026
     conference: International Conference on Learning Representations, 2026.
     pdf: https://arxiv.org/abs/2507.07610
 
   - title: "GTA: Grouped-head latenT Attention"
+    topics: "Efficient ML"
     authors: Luoyang Sun, Cheng Deng, Jiwen Jiang, Xinjian Wu, Haifeng Zhang, Lei Chen, Lionel M. Ni, Jun Wang
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2506.17286
 
   - title: "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing"
+    topics: "Efficient ML"
     authors: Cheng Deng<sup>*</sup>, Luoyang Sun, Jiwen Jiang, Yongcheng Zeng, Xinjian Wu, Wenxin Zhao, Qingfa Xiao, Jiachuan Wang, Haoyang Li, Lei Chen, Lionel M. Ni, Haifeng Zhang, Jun Wang
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2503.12167
@@ -67,6 +92,7 @@ main:
   #   conference: European Conference on Artifical Intelligence
 
   - title: "DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning"
+    topics: "Agents · NLP"
     authors: Siyuan Guo, Cheng Deng, Ying Wen, Hechang Chen, Yi Chang, Jun Wang
     conference_short: ICML2024
     conference: International Conference on Machine Learning
@@ -79,6 +105,7 @@ main:
   #   conference: IEEE Transactions on Network Science and Engineering (TNSE)
 
   - title: "Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus"
+    topics: "NLP"
     authors: Tianhang Zhang, Lin Qiu, Qipeng Guo, Cheng Deng, Yue Zhang, Zheng Zhang, Chenghu Zhou, Xinbing Wang, Luoyi Fu
     conference_short: EMNLP2023
     conference: Conference on Empirical Methods in Natural Language Processing, 2023.
@@ -97,12 +124,14 @@ main:
   #   pdf: https://doi.org/10.1016/j.ejim.2022.09.030
 
   - title: "GeoGalactica: A Scientific Large Language Model in Geoscience"
+    topics: "NLP · AI4Science"
     authors: Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou, et al.
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2401.00434
     code: https://github.com/geobrain-ai/geogalactica
 
   - title: "K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization"
+    topics: "NLP · AI4Science"
     authors: Cheng Deng, Tianhang Zhang, Zhongmou He, Yi Xu, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin, Junxian He
     conference_short: WSDM2024
     conference: WSDM, 2024
@@ -110,6 +139,7 @@ main:
     code: https://github.com/davendw49/k2
 
   - title: "GAKG: A Multimodal GeoScience Academic Knowledge Graph"
+    topics: "AI4Science · Knowledge Graphs"
     authors: Cheng Deng, Yuting Jia, Weinan Zhang, Luoyi Fu, Xinbing Wang, Chenghu Zhou, et al.
     conference_short: CIKM2021
     conference: CIKM, 2021

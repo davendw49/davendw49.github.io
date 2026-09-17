@@ -80,3 +80,5 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 2px; object-fit: cover; }
+
+.publications .topic { display:inline-block; font-size:0.68rem; font-weight:600; letter-spacing:.03em; padding:0.1em 0.5em; border-radius:999px; background:rgba(128,128,128,.14); color:inherit; opacity:.85; vertical-align:middle; margin-right:2px; white-space:nowrap; }

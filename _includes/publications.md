@@ -13,7 +13,7 @@
     {% endif %}
   </div> -->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 0px;">
-      <div class="title"> <abbr class="badge">{{ link.conference_short }}</abbr> <a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"> <abbr class="badge">{{ link.conference_short }}</abbr>{% if link.topics %} <span class="topic">{{ link.topics }}</span>{% endif %} {% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors | replace: 'Cheng Deng', '<strong>Cheng Deng</strong>' }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
