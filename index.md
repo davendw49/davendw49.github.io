@@ -68,6 +68,17 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 
 </div>
 
+
+## News
+
+- **[2026-09]** I am honored to serve as an Area Chair for ICLR 2027!
+- **[2026-09]** [*RooflineBench*](https://arxiv.org/abs/2602.11506) is accepted by DAI 2026!
+- **[2026-09]** [*EffVLA*](https://arxiv.org/abs/2609.13984) is accepted by CoRL 2026!
+- **[2026-08]** Invited talk on "Large Discovery Model and Geoscience" at the 3rd International Symposium on Deep Underground Science and Engineering in Glasgow!
+- **[2026-04]** 2 papers accepted by ACL Main Conference 2026, 2 papers accepted by ICLR 2026 (incl. [*SpatialViz-Bench*](https://arxiv.org/abs/2507.07610)), and [*ContextPilot*](https://arxiv.org/abs/2511.03475) accepted by MLSys 2026!
+- **[2026-04]** I hosted an academic workshop at the Bayes Centre, University of Edinburgh, titled "Edge AI Agent Workshop", where I also delivered a talk on "Efficient AI Agent on the Edge".
+
+
 ## Selected Research Highlights
 
 <style>
@@ -183,14 +194,6 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 </div>
 
 <p style="font-size:.85em;line-height:1.5;margin:10px 0 14px;"><strong>Platforms.</strong> <em>PhysicalAgent mobile base</em>: a self-built wheeled home robot I lead the team on, NVIDIA Jetson Orin on board, lidar, camera, and microphones, ROS&nbsp;2 navigation, pretrained VLA plus agent loop, running untethered in a real home. Also deployed on Raspberry Pi and consumer phones (PLM), and in-vehicle edge hardware (Li Auto).</p>
-
-## News
-
-- **[2026-09]** [*RooflineBench*](https://arxiv.org/abs/2602.11506) is accepted by DAI 2026!
-- **[2026-09]** [*EffVLA*](https://arxiv.org/abs/2609.13984) is accepted by CoRL 2026!
-- **[2026-08]** Invited talk on "Large Discovery Model and Geoscience" at the 3rd International Symposium on Deep Underground Science and Engineering in Glasgow!
-- **[2026-04]** 2 papers accepted by ACL Main Conference 2026, 2 papers accepted by ICLR 2026 (incl. [*SpatialViz-Bench*](https://arxiv.org/abs/2507.07610)), and [*ContextPilot*](https://arxiv.org/abs/2511.03475) accepted by MLSys 2026!
-- **[2026-04]** I hosted an academic workshop at the Bayes Centre, University of Edinburgh, titled "Edge AI Agent Workshop", where I also delivered a talk on "Efficient AI Agent on the Edge".
 
 
 {% include publications.md %}
