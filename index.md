@@ -72,6 +72,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 ## News
 
 - **[2026-09]** I am honored to serve as an Area Chair for ICLR 2027!
+- **[2026-09]** [*Dancing in Fetters*](https://arxiv.org/abs/2602.10377), our hardware co-design scaling law for on-device LLMs, is accepted by NeurIPS 2026!
 - **[2026-09]** [*RooflineBench*](https://arxiv.org/abs/2602.11506) is accepted by DAI 2026!
 - **[2026-09]** [*EffVLA*](https://arxiv.org/abs/2609.13984) is accepted by CoRL 2026!
 - **[2026-08]** Invited talk on "Large Discovery Model and Geoscience" at the 3rd International Symposium on Deep Underground Science and Engineering in Glasgow!
@@ -153,8 +154,8 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
         <img class="hl-media" src="./plm/sample-1.gif" alt="PLM demo: interacting with objects in front of the device" loading="lazy">
         <img class="hl-media" src="./plm/sample-2.gif" alt="PLM demo: the on-device model's screen output" loading="lazy">
       </div>
-      <h3>PLM &amp; Hardware Co-Design Scaling Laws</h3>
-      <p>A 1.8B peripheral language model co-designed with edge hardware, roofline-based scaling laws that choose architectures under latency, memory, and energy budgets, and RooflineBench for benchmarking on-device LLMs.</p>
+      <h3>PLM <span class="hl-badge">Preprint</span> &amp; Hardware Co-Design Scaling Laws <span class="hl-badge">NeurIPS 2026</span></h3>
+      <p>A 1.8B peripheral language model co-designed with edge hardware, Pareto-optimal scaling laws that choose architectures under latency, memory, and energy constraints (<em>Dancing in Fetters</em>), and RooflineBench for benchmarking on-device LLMs.</p>
       <p class="hl-links"><a href="https://arxiv.org/abs/2503.12167" target="_blank">PLM</a><a href="https://github.com/plm-team/PLM" target="_blank">Code</a><a href="https://arxiv.org/abs/2602.10377" target="_blank">Scaling Laws</a><a href="https://arxiv.org/abs/2602.11506" target="_blank">RooflineBench</a><span class="hl-stats"><span>🤗 13k+ downloads</span><span class="hl-badge" style="margin-left:0">DAI 2026</span></span></p>
     </div>
     <div class="hl-card">

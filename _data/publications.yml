@@ -39,10 +39,11 @@ main:
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2603.02083
 
-  - title: "Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs"
+  - title: "Dancing in Fetters: Pareto-Optimal On-Device LLMs under Hardware Constraints"
     topics: "Efficient ML"
     authors: Luoyang Sun, Jiwen Jiang, Yifeng Ding, Fengfa Li, Yan Song, Haifeng Zhang, Jian Ying, Lei Ren, Kun Zhan, Wei Chen, Yan Xie, Cheng Deng<sup>*</sup>
-    conference_short: Preprint
+    conference_short: NeurIPS 2026
+    conference: Conference on Neural Information Processing Systems, 2026.
     pdf: https://arxiv.org/abs/2602.10377
 
   - title: "ContextPilot: Fast Long-Context Inference via Context Reuse"
