@@ -118,7 +118,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
         <img class="hl-media" src="./img/homephysicalagent-dashboard.gif" alt="PhysicalAgent operations console: map, camera, and lidar during a navigation task" loading="lazy">
         <img class="hl-media" src="./img/homephysicalagent.gif" alt="PhysicalAgent: the mobile robot navigating the same task" loading="lazy">
       </div>
-      <h3>PhysicalAgent <span class="hl-badge">Banbu-supported</span></h3>
+      <h3>PhysicalAgent</h3>
       <p>An embodied-agent testbed integrating VLA policies, SLAM/navigation, multimodal perception, and task-level agents on an untethered Jetson-powered mobile robot. We use it to study learned/classical skill composition, agent–executor feedback, and resource-aware autonomy in real environments.</p>
       <p class="hl-links"><span class="hl-badge">Ongoing</span></p>
     </div>
