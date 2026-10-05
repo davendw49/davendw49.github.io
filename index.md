@@ -212,6 +212,8 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 
 {% include publications.md %}
 
+{% include teaching.md %}
+
 {% include services.md %}
 
 ## Funding
