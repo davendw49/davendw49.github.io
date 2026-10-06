@@ -71,6 +71,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 
 ## News
 
+- **[2026-10]** Two invited talks at the University of Oxford: "From Preference to Experience: Reward-Guided Learning for Physical Intelligence" and "Trust, Memory, and Reuse: Three Safety Primitives for Agent Systems".
 - **[2026-09]** I am honored to serve as an Area Chair for ICLR 2027!
 - **[2026-09]** [*Dancing in Fetters*](https://arxiv.org/abs/2602.10377), our hardware co-design scaling law for on-device LLMs, is accepted by NeurIPS 2026!
 - **[2026-09]** [*RooflineBench*](https://arxiv.org/abs/2602.11506) is accepted by DAI 2026!

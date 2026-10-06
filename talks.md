@@ -10,6 +10,8 @@ permalink: /talks/
 
 <ul style="margin:0 0 5px;">
 
+<li>Presented "<b>From Preference to Experience: Reward-Guided Learning for Physical Intelligence</b>" at the University of Oxford, Oxford, UK. <em>Oct 2026</em></li>
+<li>Presented "<b>Trust, Memory, and Reuse: Three Safety Primitives for Agent Systems</b>" at the University of Oxford, Oxford, UK. <em>Oct 2026</em></li>
 <li>Presented "<b>Large Discovery Model and Geoscience</b>" at the 3rd International Symposium on Deep Underground Science and Engineering, Glasgow, UK. <em>Aug 2026</em></li>
 <li>Presented "<b>Efficient AI Agent on the Edge</b>" at the Edge AI Agent Workshop, Bayes Centre, University of Edinburgh (workshop host and organizer). <em>Apr 2026</em></li>
 <li>Attended the <a href="https://www.youtube.com/@niklasopf">NiklasOPF Podcast</a>, sharing "<b>PLM</b>" and "<b>Hardware co-Design Scaling Law</b>". <em>Feb 2026</em></li>
