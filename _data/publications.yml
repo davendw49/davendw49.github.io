@@ -30,7 +30,7 @@ main:
   - title: "MemoryCraft: How Retrieval Control Reshapes Agent Memory Performance and Cost"
     topics: "Agents · Systems"
     authors: Cheng Deng, Eve Sauvage, Danna Zheng, Wenyu Huang, Luo Mai, Mirella Lapata, Jeff Z. Pan
-    conference_short: Under Review
+    conference_short: Under Revision
     code: https://github.com/MemoryCraft-Team/OpenMemorycraft
 
   - title: "π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs"

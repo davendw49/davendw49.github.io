@@ -25,7 +25,7 @@ Agent systems fail quietly: a retrieval that returns the wrong memory, a cached 
 ### Related work
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://github.com/MemoryCraft-Team/OpenMemorycraft">MemoryCraft: How Retrieval Control Reshapes Agent Memory Performance and Cost</a>, under review.</li>
+  <li><a href="https://github.com/MemoryCraft-Team/OpenMemorycraft">MemoryCraft: How Retrieval Control Reshapes Agent Memory Performance and Cost</a>, under revision.</li>
   <li><a href="https://arxiv.org/abs/2511.03475">ContextPilot: Fast Long-Context Inference via Context Reuse</a>, MLSys 2026.</li>
   <li><a href="https://arxiv.org/abs/2402.17453">DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning</a>, ICML 2024.</li>
 </ul>

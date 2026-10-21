@@ -169,7 +169,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
     </div>
     <div class="hl-card">
       <img class="hl-media" src="./img/contextpilot.png" alt="ContextPilot system overview" loading="lazy">
-      <h3>ContextPilot <span class="hl-badge">MLSys 2026</span> &amp; MemoryCraft <span class="hl-badge">Under review</span></h3>
+      <h3>ContextPilot <span class="hl-badge">MLSys 2026</span> &amp; MemoryCraft <span class="hl-badge">Under revision</span></h3>
       <p>Long-context agents, from inference to memory: ContextPilot cuts prefill cost through context reuse, ordering, and deduplication; MemoryCraft is a controlled platform for evaluating agent memory systems jointly with their retrieval regimes, backbones, and token cost.</p>
       <p class="hl-links"><a href="https://arxiv.org/abs/2511.03475" target="_blank">ContextPilot</a><a href="https://github.com/MemoryCraft-Team/OpenMemorycraft" target="_blank">MemoryCraft</a></p>
     </div>
