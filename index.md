@@ -71,7 +71,8 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 
 ## News
 
-- **[2026-10]** Two invited talks at the University of Oxford: "From Preference to Experience: Reward-Guided Learning for Physical Intelligence" and "Trust, Memory, and Reuse: Three Safety Primitives for Agent Systems".
+- **[2026-10]** I am honored to serve as an Area Chair for ICML 2027!
+- **[2026-10]** Two invited talks at the University of Oxford: "[From Preference to Experience: Reward-Guided Learning for Physical Intelligence](/talks/reward-guided-learning/)" and "[Trust, Memory, and Reuse: Three Safety Primitives for Agent Systems](/talks/agent-safety-primitives/)".
 - **[2026-09]** I am honored to serve as an Area Chair for ICLR 2027!
 - **[2026-09]** [*Dancing in Fetters*](https://arxiv.org/abs/2602.10377), our hardware co-design scaling law for on-device LLMs, is accepted by NeurIPS 2026!
 - **[2026-09]** [*RooflineBench*](https://arxiv.org/abs/2602.11506) is accepted by DAI 2026!
@@ -106,6 +107,8 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 .hl-card.hl-wide .hl-body{display:flex;flex-direction:column;flex:1 1 auto;min-width:0;}
 .hl-card.hl-wide .hl-links{margin-top:6px;}
 @media (max-width:760px){.hl-card.hl-wide{flex-direction:column;align-items:stretch;}.hl-card.hl-wide .hl-media{width:100%;max-width:none;}}
+.hl-grid.hl-2{grid-template-columns:repeat(2,minmax(0,1fr));}
+@media (max-width:480px){.hl-grid.hl-2{grid-template-columns:1fr;}}
 .hl-group{margin:14px 0 6px;font-size:.95em;font-weight:700;letter-spacing:.01em;display:flex;align-items:center;gap:8px;}
 .hl-group small{font-weight:400;opacity:.65;font-size:.85em;}
 .hl-badge{display:inline-block;font-size:.7em;font-weight:600;letter-spacing:.03em;text-transform:uppercase;padding:1px 7px;border-radius:999px;background:rgba(128,128,128,.18);vertical-align:middle;margin-left:6px;}
@@ -197,14 +200,6 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
       <h3>Hallucination Detection <span class="hl-badge">EMNLP 2023</span></h3>
       <p>Uncertainty-based hallucination detection for LLMs with keyword focus and history-aware propagation, improving detection without extra supervision.</p>
       <p class="hl-links"><a href="https://arxiv.org/abs/2311.13230" target="_blank">arXiv</a></p>
-    </div>
-    <div class="hl-card hl-wide">
-      <img class="hl-media" src="./img/llm-fullstack-overview.png" alt="Overview of the full-stack LLM training tutorial: data curation, model setup, pre-training, post-training, deployment" loading="lazy">
-      <div class="hl-body">
-        <h3>Hands-on LLM: Full-Stack Training Tutorial <span class="hl-badge">Open source</span></h3>
-        <p>An end-to-end, runnable course on training a large language model: data curation, model setup, pre-training, post-training, and deployment, with complete scripts and notebooks. First delivered as a tutorial at RLChina 2024, Guangzhou.</p>
-        <p class="hl-links"><a href="https://github.com/davendw49/llm_training_full_stack" target="_blank">GitHub</a><span class="hl-stats"><span><i class="fab fa-github"></i> 41 stars</span><span>Apache-2.0</span></span></p>
-      </div>
     </div>
 </div>
 
