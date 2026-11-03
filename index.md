@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I develop **efficient foundation models and agents that move from language to physical intelligence**. My research spans natural language processing, foundation-model training, efficient model architecture and inference, and embodied AI, with a growing focus on VLA models, robotic agents, and hardware–model co-design for real-world deployment.
+I work on **efficient large language models**, and on extending them into **efficient physical AI**. My research covers hardware-aware model architecture, scaling laws, efficient attention and inference, and long-context agent systems, and applies them to VLA models and embodied agents that act on robots and vehicles. Before that, my work was in natural language processing and foundation-model training, including the first generation of geoscience LLMs.
 
 A central question across my work is how to build capable AI systems under real constraints on compute, memory, latency, energy, and interaction: from language models running on edge devices to embodied agents acting on robots and vehicles.
 
-Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, working in collaboration with [Prof. Luo Mai](https://luomai.github.io/), [Prof. Jeff Pan](https://knowledge-representation.org/j.z.pan/), and [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). I also serve as a Visiting Research Fellow at Li Auto. Prior to joining the University of Edinburgh, I was a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), where I worked with Prof. *Lei Chen* and Prof. *Lionel M. Ni*. I obtained my Ph.D. at Shanghai Jiao Tong University, where I was fortunate to be supervised by Prof. *Weinan Zhang*, Prof. *Luoyi Fu*, and Prof. *Xinbing Wang*. During my early research career, I interned with the Data Team at TikTok and worked as an Applied Scientist Intern at Amazon Shanghai AI Lab. In 2021, I was selected for the *Wenjun Wu Honored Ph.D. Class*.
+Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, working in collaboration with [Prof. Luo Mai](https://luomai.github.io/), [Prof. Jeff Pan](https://knowledge-representation.org/j.z.pan/), and [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). I also serve as a Visiting Research Fellow at Li Auto, and hold a lecturer-grade teaching appointment in the Department of Linguistics at UCL, where I am the module lead for [Advanced Computational Linguistics (PLIN0072)](https://www.ucl.ac.uk/module-catalogue/modules/advanced-computational-linguistics-PLIN0072) in 2026–2027, responsible for its design, delivery, and assessment. Prior to joining the University of Edinburgh, I was a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), where I worked with Prof. *Lei Chen* and Prof. *Lionel M. Ni*. I obtained my Ph.D. at Shanghai Jiao Tong University, where I was fortunate to be supervised by Prof. *Weinan Zhang*, Prof. *Luoyi Fu*, and Prof. *Xinbing Wang*. During my early research career, I interned with the Data Team at TikTok and worked as an Applied Scientist Intern at Amazon Shanghai AI Lab. In 2021, I was selected for the *Wenjun Wu Honored Ph.D. Class*.
 
 ## Research
 
@@ -33,9 +33,9 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 <div class="eal-text">
 <p>My current research is organised around three connected directions:</p>
 <ol style="margin:0 0 8px 1.2em;padding:0;">
-<li><strong>Efficient Physical AI &amp; Robotics.</strong> VLA and world-action models, embodied agents, and hybrid learned/classical robot systems, with deployments across robotic manipulation, mobile robots, and intelligent vehicles.</li>
-<li><strong>Efficient Foundation Models &amp; Agents.</strong> Hardware-aware model architecture, scaling laws, efficient attention and inference, and long-context agent systems for resource-constrained deployment.</li>
+<li><strong>Efficient LLMs &amp; Agents.</strong> Hardware-aware model architecture, scaling laws, efficient attention and inference, and long-context agent systems for resource-constrained deployment: PLM, GTA, ContextPilot, MemoryCraft, and the hardware co-design scaling laws.</li>
 <li><strong>NLP, Foundation Models &amp; AI for Science.</strong> Pre-training, post-training, reasoning, agents, and structured knowledge for language and scientific domains.</li>
+<li><strong>Efficient Physical AI &amp; Robotics.</strong> VLA and world-action models, embodied agents, and hybrid learned/classical robot systems on edge hardware, deployed on a self-built home robot and on intelligent-vehicle platforms with Li Auto.</li>
 </ol>
 <p>My long-term goal is to understand how models, agents, robot skills, and hardware should be co-designed so that increasingly capable AI can operate reliably in the physical world.</p>
 </div>
@@ -71,6 +71,7 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 
 ## News
 
+- **[2026-11]** Joined the Department of Linguistics at UCL as module lead for [Advanced Computational Linguistics (PLIN0072)](https://www.ucl.ac.uk/module-catalogue/modules/advanced-computational-linguistics-PLIN0072), 2026-2027.
 - **[2026-10]** I am honored to serve as an Area Chair for ICML 2027!
 - **[2026-10]** Two invited talks at the University of Oxford: "[From Preference to Experience: Reward-Guided Learning for Physical Intelligence](/talks/reward-guided-learning/)" and "[Trust, Memory, and Reuse: Three Safety Primitives for Agent Systems](/talks/agent-safety-primitives/)".
 - **[2026-09]** I am honored to serve as an Area Chair for ICLR 2027!
@@ -114,61 +115,22 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
 .hl-badge{display:inline-block;font-size:.7em;font-weight:600;letter-spacing:.03em;text-transform:uppercase;padding:1px 7px;border-radius:999px;background:rgba(128,128,128,.18);vertical-align:middle;margin-left:6px;}
 </style>
 
-<div class="hl-group">🤖 Efficient Physical AI &amp; Robotics</div>
-<div class="hl-grid">
-    <div class="hl-card">
-      <img class="hl-media" src="./liauto/effvla.gif" alt="Efficient VLA running on edge hardware" loading="lazy">
-      <h3>Efficient VLA <span class="hl-badge">CoRL 2026</span></h3>
-      <p>A controlled, latency-aware study of modular VLA design. We identify where additional model capacity actually pays off, derive an efficient VLA recipe, and validate transfer from simulation to real robotic manipulation.</p>
-      <p class="hl-links"><a href="https://arxiv.org/abs/2609.13984" target="_blank">arXiv</a></p>
-    </div>
-    <div class="hl-card">
-      <div class="hl-media-row hl-fit">
-        <img class="hl-media" src="./img/homephysicalagent-dashboard.gif" alt="PhysicalAgent operations console: map, camera, and lidar during a navigation task" loading="lazy">
-        <img class="hl-media" src="./img/homephysicalagent.gif" alt="PhysicalAgent: the mobile robot navigating the same task" loading="lazy">
-      </div>
-      <h3>PhysicalAgent</h3>
-      <p>An embodied-agent testbed integrating VLA policies, SLAM/navigation, multimodal perception, and task-level agents on an untethered Jetson-powered mobile robot. We use it to study learned/classical skill composition, agent–executor feedback, and resource-aware autonomy in real environments.</p>
-      <p class="hl-links"><span class="hl-badge">Ongoing</span></p>
-    </div>
-    <div class="hl-card">
-      <div class="hl-media-row hl-fit">
-      <svg class="hl-media" viewBox="0 0 96 120" role="img" aria-label="Agent, VLA policy, and vehicle or robot platform in a feedback loop">
-        <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="rgba(128,128,128,.7)"/></marker></defs>
-        <g fill="rgba(128,128,128,.10)" stroke="rgba(128,128,128,.45)" stroke-width="1.2">
-          <rect x="6" y="4" width="84" height="28" rx="7"/><rect x="6" y="46" width="84" height="28" rx="7"/><rect x="6" y="88" width="84" height="28" rx="7"/>
-        </g>
-        <g stroke="rgba(128,128,128,.7)" stroke-width="1.2" marker-end="url(#arr)">
-          <line x1="43" y1="33.5" x2="43" y2="44.5"/><line x1="53" y1="44.5" x2="53" y2="33.5"/>
-          <line x1="43" y1="75.5" x2="43" y2="86.5"/><line x1="53" y1="86.5" x2="53" y2="75.5"/>
-        </g>
-        <g fill="currentColor" font-size="9.5" font-weight="600" text-anchor="middle">
-          <text x="48" y="22">Task-level Agent</text>
-          <text x="48" y="64">VLA Policy</text>
-          <text x="48" y="101">Vehicle / Robot</text><text x="48" y="111">Platform</text>
-        </g>
-      </svg>
-      <img class="hl-media" src="./liauto/effllm.png" alt="Hardware co-design scaling law for on-device models" loading="lazy">
-      </div>
-      <h3>Efficient Embodied AI for Intelligent Vehicles and Robots <span class="hl-badge">Industry</span></h3>
-      <p>VLA policies, agent–executor systems, and hardware-aware deployment for real-world vehicle and robot platforms through industry collaboration with Li Auto.</p>
-      <p class="hl-links"><a href="https://arxiv.org/abs/2602.10377" target="_blank">Scaling Laws</a><a href="https://arxiv.org/abs/2609.13984" target="_blank">Efficient VLA</a><span class="hl-soon">AdaptiveWAM</span><span class="hl-soon">Long-horizon VLA</span><span class="hl-badge" style="margin-left:0">coming soon</span></p>
-    </div>
-</div>
-
-<div class="hl-group">⚡ Efficient Foundation Models &amp; Agents</div>
+<div class="hl-group">⚡ Efficient LLMs &amp; Agents</div>
 <div class="hl-grid">
     <div class="hl-card">
       <div class="hl-media-row">
         <img class="hl-media" src="./plm/sample-1.gif" alt="PLM demo: interacting with objects in front of the device" loading="lazy">
         <img class="hl-media" src="./plm/sample-2.gif" alt="PLM demo: the on-device model's screen output" loading="lazy">
       </div>
-      <h3>PLM <span class="hl-badge">Preprint</span> &amp; Hardware Co-Design Scaling Laws <span class="hl-badge">NeurIPS 2026</span></h3>
-      <p>A 1.8B peripheral language model co-designed with edge hardware, Pareto-optimal scaling laws that choose architectures under latency, memory, and energy constraints (<em>Dancing in Fetters</em>), and RooflineBench for benchmarking on-device LLMs.</p>
-      <p class="hl-links"><a href="https://arxiv.org/abs/2503.12167" target="_blank">PLM</a><a href="https://github.com/plm-team/PLM" target="_blank">Code</a><a href="https://arxiv.org/abs/2602.10377" target="_blank">Scaling Laws</a><a href="https://arxiv.org/abs/2602.11506" target="_blank">RooflineBench</a><span class="hl-stats"><span>🤗 13k+ downloads</span><span class="hl-badge" style="margin-left:0">DAI 2026</span></span></p>
+      <h3>Hardware Co-Design Scaling Laws <span class="hl-badge">NeurIPS 2026</span> &amp; PLM <span class="hl-badge">Preprint</span></h3>
+      <p>Pareto-optimal scaling laws that choose architectures under latency, memory, and energy constraints (<em>Dancing in Fetters</em>), PLM, a 1.8B peripheral language model co-designed with edge hardware, and RooflineBench for benchmarking on-device LLMs.</p>
+      <p class="hl-links"><a href="https://arxiv.org/abs/2602.10377" target="_blank">Scaling Laws</a><a href="https://arxiv.org/abs/2503.12167" target="_blank">PLM</a><a href="https://github.com/plm-team/PLM" target="_blank">Code</a><a href="https://arxiv.org/abs/2602.11506" target="_blank">RooflineBench</a><span class="hl-stats"><span>🤗 13k+ downloads</span><span class="hl-badge" style="margin-left:0">DAI 2026</span></span></p>
     </div>
     <div class="hl-card">
-      <img class="hl-media" src="./img/contextpilot.png" alt="ContextPilot system overview" loading="lazy">
+      <div class="hl-media-row">
+        <img class="hl-media" src="./img/contextpilot.png" alt="ContextPilot system overview" loading="lazy">
+        <img class="hl-media" src="./img/memorycraft.png" alt="MemoryCraft: token cost follows the turn count under harness-issued versus agent-issued retrieval" loading="lazy">
+      </div>
       <h3>ContextPilot <span class="hl-badge">MLSys 2026</span> &amp; MemoryCraft <span class="hl-badge">Under revision</span></h3>
       <p>Long-context agents, from inference to memory: ContextPilot cuts prefill cost through context reuse, ordering, and deduplication; MemoryCraft is a controlled platform for evaluating agent memory systems jointly with their retrieval regimes, backbones, and token cost.</p>
       <p class="hl-links"><a href="https://arxiv.org/abs/2511.03475" target="_blank">ContextPilot</a><a href="https://github.com/MemoryCraft-Team/OpenMemorycraft" target="_blank">MemoryCraft</a></p>
@@ -200,6 +162,48 @@ Currently, I am a Research Fellow at the Bayes Centre, University of Edinburgh, 
       <h3>Hallucination Detection <span class="hl-badge">EMNLP 2023</span></h3>
       <p>Uncertainty-based hallucination detection for LLMs with keyword focus and history-aware propagation, improving detection without extra supervision.</p>
       <p class="hl-links"><a href="https://arxiv.org/abs/2311.13230" target="_blank">arXiv</a></p>
+    </div>
+</div>
+
+<div class="hl-group">🤖 Efficient Physical AI &amp; Robotics</div>
+<div class="hl-grid">
+    <div class="hl-card">
+      <img class="hl-media" src="./liauto/effvla.gif" alt="Efficient VLA running on edge hardware" loading="lazy">
+      <h3>Efficient VLA <span class="hl-badge">CoRL 2026</span></h3>
+      <p>A controlled, latency-aware study of modular VLA design. We identify where additional model capacity actually pays off, derive an efficient VLA recipe, and validate transfer from simulation to real robotic manipulation.</p>
+      <p class="hl-links"><a href="https://arxiv.org/abs/2609.13984" target="_blank">arXiv</a></p>
+    </div>
+    <div class="hl-card">
+      <div class="hl-media-row hl-fit">
+        <img class="hl-media" src="./img/homephysicalagent-dashboard.gif" alt="PhysicalAgent operations console: map, camera, and lidar during a navigation task" loading="lazy">
+        <img class="hl-media" src="./img/homephysicalagent.gif" alt="PhysicalAgent: the mobile robot navigating the same task" loading="lazy">
+      </div>
+      <h3>PhysicalAgent <span class="hl-badge">Banbu</span></h3>
+      <p>An embodied-agent testbed integrating VLA policies, SLAM/navigation, multimodal perception, and task-level agents on an untethered Jetson-powered mobile robot. We use it to study learned/classical skill composition, agent–executor feedback, and resource-aware autonomy in real environments.</p>
+      <p class="hl-links"><a href="https://banbu.ai/" target="_blank">banbu.ai</a><span class="hl-badge">Ongoing</span></p>
+    </div>
+    <div class="hl-card">
+      <div class="hl-media-row hl-fit">
+      <svg class="hl-media" viewBox="0 0 96 120" role="img" aria-label="Agent, VLA policy, and vehicle or robot platform in a feedback loop">
+        <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="rgba(128,128,128,.7)"/></marker></defs>
+        <g fill="rgba(128,128,128,.10)" stroke="rgba(128,128,128,.45)" stroke-width="1.2">
+          <rect x="6" y="4" width="84" height="28" rx="7"/><rect x="6" y="46" width="84" height="28" rx="7"/><rect x="6" y="88" width="84" height="28" rx="7"/>
+        </g>
+        <g stroke="rgba(128,128,128,.7)" stroke-width="1.2" marker-end="url(#arr)">
+          <line x1="43" y1="33.5" x2="43" y2="44.5"/><line x1="53" y1="44.5" x2="53" y2="33.5"/>
+          <line x1="43" y1="75.5" x2="43" y2="86.5"/><line x1="53" y1="86.5" x2="53" y2="75.5"/>
+        </g>
+        <g fill="currentColor" font-size="9.5" font-weight="600" text-anchor="middle">
+          <text x="48" y="22">Task-level Agent</text>
+          <text x="48" y="64">VLA Policy</text>
+          <text x="48" y="101">Vehicle / Robot</text><text x="48" y="111">Platform</text>
+        </g>
+      </svg>
+      <img class="hl-media" src="./liauto/effllm.png" alt="Hardware co-design scaling law for on-device models" loading="lazy">
+      </div>
+      <h3>Efficient Embodied AI for Intelligent Vehicles and Robots <span class="hl-badge">Industry</span></h3>
+      <p>VLA policies, agent–executor systems, and hardware-aware deployment for real-world vehicle and robot platforms through industry collaboration with Li Auto.</p>
+      <p class="hl-links"><a href="https://arxiv.org/abs/2602.10377" target="_blank">Scaling Laws</a><a href="https://arxiv.org/abs/2609.13984" target="_blank">Efficient VLA</a><span class="hl-soon">AdaptiveWAM</span><span class="hl-soon">Long-horizon VLA</span><span class="hl-badge" style="margin-left:0">coming soon</span></p>
     </div>
 </div>
 

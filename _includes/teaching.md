@@ -1,5 +1,10 @@
 ## Teaching
 
+<div class="hl-group">🏫 Courses</div>
+<ul style="margin:0 0 10px;">
+  <li><b>Module Lead</b>, <a href="https://www.ucl.ac.uk/module-catalogue/modules/advanced-computational-linguistics-PLIN0072"><b>Advanced Computational Linguistics (PLIN0072)</b></a>, Department of Linguistics, University College London, 2026–2027. Lecturer-grade teaching appointment with sole responsibility for the lectures, materials, and assessment of a graduate module.</li>
+</ul>
+
 <div class="hl-group">📘 Tutorials &amp; Invited Lectures</div>
 <div class="hl-grid">
     <div class="hl-card">
