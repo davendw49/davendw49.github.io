@@ -34,6 +34,16 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    {% if site.google_analytics and jekyll.environment != "development" %}
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">
@@ -111,7 +121,13 @@
 
       </section>
       <footer>
-        
+        {% if site.visitor_counter %}
+        <span id="busuanzi_container_site_pv" class="visit-counter" style="display:none;">
+          <i class="fas fa-eye"></i> <span id="busuanzi_value_site_pv"></span> views
+          &middot; <i class="fas fa-user"></i> <span id="busuanzi_value_site_uv"></span> visitors
+        </span>
+        <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+        {% endif %}
       </footer>
     </div>
     

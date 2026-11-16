@@ -33,3 +33,7 @@ section > h2:first-child { margin-top: 2px; }
 /* Full-frame avatar with rounded corners instead of the theme's circle */
 header .image.avatar, header .image.avatar img { border-radius: 14px; }
 header .image.avatar img { width: 200px; max-width: 100%; padding: 0 0 6px; }
+
+/* Visitor counter in the footer */
+footer .visit-counter { font-size: 11px; opacity: .65; white-space: nowrap; }
+footer .visit-counter i { font-size: 10px; margin-right: 2px; }
