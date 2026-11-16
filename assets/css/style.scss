@@ -34,6 +34,9 @@ section > h2:first-child { margin-top: 2px; }
 header .image.avatar, header .image.avatar img { border-radius: 14px; }
 header .image.avatar img { width: 200px; max-width: 100%; padding: 0 0 6px; }
 
-/* Visitor counter in the footer */
-footer .visit-counter { font-size: 11px; opacity: .65; white-space: nowrap; }
-footer .visit-counter i { font-size: 10px; margin-right: 2px; }
+/* Sidebar: visitor map and visit counter under the social icons */
+header .visitor-map { width: 200px; max-width: 100%; margin: 14px auto 6px; }
+header .visitor-map img, header .visitor-map a { max-width: 100%; height: auto; }
+header .visitor-map-placeholder { border: 1px dashed rgba(128,128,128,.5); border-radius: 8px; padding: 28px 8px; text-align: center; font-size: 11px; line-height: 1.4; opacity: .7; }
+header .visit-counter { display: block; font-size: 11px; opacity: .65; white-space: nowrap; }
+header .visit-counter i { font-size: 10px; margin-right: 2px; }

@@ -40,6 +40,10 @@ font: "Serif" # or "Sans Serif"
 # Visitor counter in the footer (busuanzi, no account needed). Set to false to hide.
 visitor_counter: true
 
+# MapMyVisitors visitor map at the bottom of the homepage.
+# Get the widget code for www.cdeng.net at https://mapmyvisitors.com, copy the token after "d=", and paste it here.
+mapmyvisitors_id: yYWpYfQHBj96iDj6xenNOozIrRLTA8s4Ypc-DCEf7HA
+
 # Google Analytics 4 Measurement ID (only loaded on the deployed site, not on localhost)
 google_analytics: G-VC3Y34501K
 
@@ -58,3 +62,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - drafts/

@@ -1,0 +1,9 @@
+{% if site.mapmyvisitors_id %}
+<div class="visitor-map">
+  {% if jekyll.environment == "development" %}
+  <div class="visitor-map-placeholder">Visitor map<br>(deployed site only)</div>
+  {% else %}
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}&cl=ffffff&w=200"></script>
+  {% endif %}
+</div>
+{% endif %}
